@@ -1,0 +1,6 @@
+{
+  "name": "STREAMHUB",
+  "description": "Aplikasi streaming film pilihan dengan proteksi iframe, Liquid Glass UI, Ad Shield native, dan auto fallback provider.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
